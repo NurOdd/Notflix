@@ -33,13 +33,14 @@ body{
 }
 
 .faq-question{
-   background-color: rgb(70, 70, 70);
+   background-color: rgb(48, 48, 48);
    color: white;
     font-weight: 400;
     margin-bottom: 1px;
     padding: 0.8em 2.2em 0.8em 1.2em;
     position: relative;
-    width: 100%;
+   width: 750px ;
+   font-size: 30px;
 }
 
 .section1{
@@ -47,6 +48,8 @@ body{
     justify-content: space-between;
     align-items: center;
     border-bottom: 8px solid #222;
+    margin-left: 100px;
+    margin-right: 100px;
     
 }
 
