@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+    
+}
+
+
+.header{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+}
+#logoNetflix{
+    width: 150px;
+}
+#main-section{
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/a795ee10-8c6d-467c-8159-254be2b69013/2ee35a42-0a46-42d4-a7d7-96dfad9617ae/ES-en-20220912-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+    padding: 200px;
+    margin-top: 10px;
+}
+
+.nice-button{
+    
+    background-color: rgb(214, 48, 48);
+    color: white;
+    border-radius: 4px;
+    border-color: rgb(214, 48, 48);
+
+}
+
+.faq-question{
+   background-color: rgb(70, 70, 70);
+   color: white;
+    font-weight: 400;
+    margin-bottom: 1px;
+    padding: 0.8em 2.2em 0.8em 1.2em;
+    position: relative;
+    width: 100%;
+}
+
+.section1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 8px solid #222;
+    
+}
+
+h1{
+   font-weight: bold;
+   font-size: 65px;
+}
+
+h2{
+    font-size: 40px;
+}
