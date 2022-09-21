@@ -14,6 +14,10 @@ body{
     align-items: center;
     background-color: transparent;
 }
+.navegador{
+    width: 100px;
+}
+
 #logoNetflix{
     width: 150px;
 }
@@ -41,6 +45,8 @@ body{
     position: relative;
    width: 750px ;
    font-size: 30px;
+   text-align: left;
+
 }
 
 .section1{
@@ -53,6 +59,19 @@ body{
     
 }
 
+.footer{
+    margin-top: 50px;
+    line-height: 20px;
+color:#4c5d6c;
+display: flex;
+
+.faqs-questions{
+    
+}
+
+
+
+}
 h1{
    font-weight: bold;
    font-size: 65px;
